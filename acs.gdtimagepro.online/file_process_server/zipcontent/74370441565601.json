@@ -1,0 +1,117 @@
+{
+  "orderId" : "112-7105059-1857842",
+  "orderItemId" : "74370441565601",
+  "legacyOrderItemId" : null,
+  "merchantId" : "A3LWMIVSONM1Y9",
+  "marketplaceId" : "ATVPDKIKX0DER",
+  "asin" : "B09CW233GB",
+  "title" : "Cursive Letter Balloons - Custom Script Phrase 16\" Inch Alphabet Letters & Numbers Foil Mylar Balloon - Create Your Own Balloon Banner",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Surface 1",
+      "label" : "CURSIVE LETTER BALLOON CUSTOMIZATION",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Option Dropdown 1",
+          "label" : "Number of LETTERS/NUMBERS in Your Phrase",
+          "optionSelection" : {
+            "name" : "23 Letters/Numbers",
+            "label" : "23 Letters/Numbers",
+            "additionalCost" : {
+              "amount" : 34.99
+            }
+          },
+          "displayValue" : "23 Letters/Numbers"
+        }, {
+          "type" : "OptionCustomization",
+          "name" : "Option Dropdown 2",
+          "label" : "PICK A COLOR",
+          "optionSelection" : {
+            "name" : "ROSE GOLD",
+            "label" : "ROSE GOLD",
+            "additionalCost" : {
+              "amount" : 0
+            }
+          },
+          "displayValue" : "ROSE GOLD"
+        }, {
+          "type" : "TextCustomization",
+          "name" : "Data 1",
+          "label" : "WRITE YOUR PHRASE HERE",
+          "inputValue" : "Wind River Realty Planting & Pinot 2023"
+        }, {
+          "type" : "TextCustomization",
+          "name" : "Data 2",
+          "label" : "SHIPPING TIME TAKES 3 TO 5 BUSINESS DAYS",
+          "inputValue" : ""
+        }, {
+          "type" : "TextCustomization",
+          "name" : "Data 3",
+          "label" : "BALLOONS DO NOT SUPPORT HELIUM!",
+          "inputValue" : ""
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-us-east-1/ATVPDKIKX0DER/A3LWMIVSONM1Y9/e0fa8a71-636d-4f9e-8a26-38516352102a.png",
+        "dimension" : {
+          "width" : 2000,
+          "height" : 2000
+        }
+      },
+      "snapshot" : {
+        "imageName" : "3bb84215-4580-125b-ee9e-11980bdabbf4.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "b46a3a96-01b0-2eb7-8dfc-47a0c3c9d6e4.svg"
+    } ]
+  },
+  "version3.0" : {
+    "customizationInfo" : {
+      "surfaces" : [ {
+        "name" : "CURSIVE LETTER BALLOON CUSTOMIZATION",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Option Dropdown 1",
+          "label" : "Number of LETTERS/NUMBERS in Your Phrase",
+          "optionValue" : "23 Letters/Numbers",
+          "priceDelta" : {
+            "value" : 34.99
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "Options",
+          "name" : "Option Dropdown 2",
+          "label" : "PICK A COLOR",
+          "optionValue" : "ROSE GOLD",
+          "priceDelta" : {
+            "value" : 0.0
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "TextPrinting",
+          "name" : "Data 1",
+          "label" : "WRITE YOUR PHRASE HERE",
+          "text" : "Wind River Realty Planting & Pinot 2023"
+        }, {
+          "customizationType" : "TextPrinting",
+          "name" : "Data 2",
+          "label" : "SHIPPING TIME TAKES 3 TO 5 BUSINESS DAYS",
+          "text" : ""
+        }, {
+          "customizationType" : "TextPrinting",
+          "name" : "Data 3",
+          "label" : "BALLOONS DO NOT SUPPORT HELIUM!",
+          "text" : ""
+        } ]
+      } ]
+    }
+  }
+}

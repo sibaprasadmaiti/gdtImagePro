@@ -1,0 +1,100 @@
+{
+  "orderId" : "206-9269497-7113120",
+  "orderItemId" : "28475455453202",
+  "legacyOrderItemId" : "18345134888459",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "A1F83G8C2ARO7P",
+  "asin" : "B00P82Y948",
+  "title" : "100 Personalised Clothing Labels, Clothes Name Labels Thermo-Adhesive. Iron-on Fabric Labels to Mark Your Clothes. Ideal for Children's School Uniform, Kids School. Customizable Labels.",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Personalised TEXT",
+      "label" : "Personalised TEXT",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "ContainerCustomization",
+          "name" : "TextInput",
+          "label" : "Text Input",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "name" : "Font Name",
+            "label" : "Font Name",
+            "fontSelection" : {
+              "family" : "Trebuchet"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "label" : "Font Colour",
+            "colorSelection" : {
+              "name" : "Black",
+              "value" : "#000000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "children" : [ {
+                "type" : "TextCustomization",
+                "name" : "Name to print",
+                "label" : "Name",
+                "inputValue" : "Gillian Cummings"
+              } ],
+              "dimension" : {
+                "width" : 225,
+                "height" : 36
+              },
+              "position" : {
+                "x" : 87,
+                "y" : 161
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/pc-vendor-gallery-prod-eu/A1JLJW2WT6ZDLU/productImage/2018-07-24/9ec3d6e2-40f0-48fc-a60e-d38bad139596.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "daa88daf-c434-0112-41dc-aefe0a02327b.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "0958cabd-7c8b-125f-bb54-fac8f7d6f3db.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Personalised TEXT",
+        "areas" : [ {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Black",
+          "fill" : "#000000",
+          "fontFamily" : "Trebuchet",
+          "Dimensions" : {
+            "width" : 225,
+            "height" : 36
+          },
+          "Position" : {
+            "x" : 87,
+            "y" : 161
+          },
+          "name" : "Name to print",
+          "label" : "Name",
+          "text" : "Gillian Cummings"
+        } ]
+      } ]
+    }
+  }
+}

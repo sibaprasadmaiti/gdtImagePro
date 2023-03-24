@@ -1,0 +1,100 @@
+{
+  "orderId" : "404-6726415-3706728",
+  "orderItemId" : "28475483002442",
+  "legacyOrderItemId" : "68812945654579",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "A13V1IB3VIYZZH",
+  "asin" : "B08GSSM7SQ",
+  "title" : "200 Étiquettes vêtements thermocollantes - Les uniques étiquettes autocollantes personnalisées avec CERTIFICAT ÉCOLOGIQUE Stickers Personalisés tissu à fixer au fer à repasser, conçu pour les enfants",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Superficie 1",
+      "label" : "Nom",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "ContainerCustomization",
+          "name" : "Texto 1",
+          "label" : "Texto 1",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "label" : "Nom de la police",
+            "fontSelection" : {
+              "family" : "Trebuchet"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "label" : "Couleur de police",
+            "colorSelection" : {
+              "name" : "Negro",
+              "value" : "#000000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "name" : "Entrada de texto 1",
+              "label" : "Entrada de texto 1",
+              "children" : [ {
+                "type" : "TextCustomization",
+                "label" : "Nom",
+                "inputValue" : "Cheryline.tertrain"
+              } ],
+              "dimension" : {
+                "width" : 221,
+                "height" : 38
+              },
+              "position" : {
+                "x" : 94,
+                "y" : 162
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/79f06ae0-2939-4769-ac17-54bf6cde2e6c.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "1ae5bc4b-909e-5b94-6e99-83dc0b6da2de.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "036509dc-e891-6fd8-5360-47be1af60d74.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Nom",
+        "areas" : [ {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Negro",
+          "fill" : "#000000",
+          "fontFamily" : "Trebuchet",
+          "Dimensions" : {
+            "width" : 221,
+            "height" : 38
+          },
+          "Position" : {
+            "x" : 94,
+            "y" : 162
+          },
+          "name" : "Entrada de texto 1",
+          "label" : "Nom",
+          "text" : "Cheryline.tertrain"
+        } ]
+      } ]
+    }
+  }
+}

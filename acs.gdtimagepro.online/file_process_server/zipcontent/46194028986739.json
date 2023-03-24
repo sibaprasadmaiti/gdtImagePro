@@ -1,0 +1,158 @@
+{
+  "orderId" : "304-2607947-7920369",
+  "orderItemId" : "28476429066762",
+  "legacyOrderItemId" : "46194028986739",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "A1PA6795UKMFR9",
+  "asin" : "B074PVZ2V4",
+  "title" : "50 personalisierte Namensaufkleber zum Markieren von Bleistiften und Kugelschreibern. Bunte wasserfeste Vinyl-Klebeetiketten für Kinder und Jugendliche in Schule und Kindergarten. Größe 4,6 x 0,6 cm.",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Hintergrund",
+      "label" : "Hintergrund",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Schutzfolie",
+          "label" : "Schutzfolie",
+          "optionSelection" : {
+            "name" : "Nein",
+            "label" : "Nein",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "EUR"
+            }
+          },
+          "displayValue" : "Nein"
+        }, {
+          "type" : "OptionCustomization",
+          "name" : "Symbol",
+          "label" : "Symbol",
+          "optionSelection" : {
+            "name" : "Kein Symbol",
+            "label" : "Kein Symbol",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "EUR"
+            }
+          },
+          "displayValue" : "Kein Symbol"
+        }, {
+          "type" : "ContainerCustomization",
+          "name" : "Schriftart",
+          "label" : "Texto 1",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "name" : "",
+            "label" : "Schriftart",
+            "fontSelection" : {
+              "family" : "Bonita"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "name" : "",
+            "label" : "Schriftfarbe",
+            "colorSelection" : {
+              "name" : "Weiß C1",
+              "value" : "#000000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "name" : "Text",
+              "label" : "Entrada de texto 1",
+              "children" : [ {
+                "type" : "FlatRatePriceDeltaContainerCustomization",
+                "children" : [ {
+                  "type" : "TextCustomization",
+                  "name" : "",
+                  "label" : "Text",
+                  "inputValue" : "Adrian Winkler"
+                } ],
+                "priceDelta" : {
+                  "amount" : 0
+                }
+              } ],
+              "dimension" : {
+                "width" : 249,
+                "height" : 35
+              },
+              "position" : {
+                "x" : 97,
+                "y" : 164
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/e8d15f56-9308-4e0b-af29-a81793c49b90.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "09fd9487-42b1-f616-8c0b-3ddcaf884425.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "8574c55c-8b08-f905-705a-e8aef4433211.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Hintergrund",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Schutzfolie",
+          "label" : "Schutzfolie",
+          "optionValue" : "Nein",
+          "priceDelta" : {
+            "currency" : "EUR",
+            "value" : 0.0
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "Options",
+          "name" : "Symbol",
+          "label" : "Symbol",
+          "optionValue" : "Kein Symbol",
+          "priceDelta" : {
+            "currency" : "EUR",
+            "value" : 0.0
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Weiß C1",
+          "fill" : "#000000",
+          "fontFamily" : "Bonita",
+          "Dimensions" : {
+            "width" : 249,
+            "height" : 35
+          },
+          "Position" : {
+            "x" : 97,
+            "y" : 164
+          },
+          "priceDelta" : {
+            "value" : 0.0
+          },
+          "name" : "Text",
+          "label" : "Text",
+          "text" : "Adrian Winkler"
+        } ]
+      } ]
+    }
+  }
+}

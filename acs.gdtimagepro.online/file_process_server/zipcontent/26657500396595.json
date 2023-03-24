@@ -1,0 +1,194 @@
+{
+  "orderId" : "304-2960870-1505101",
+  "orderItemId" : "28476861463882",
+  "legacyOrderItemId" : "26657500396595",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "A1PA6795UKMFR9",
+  "asin" : "B07RS3TT72",
+  "title" : "9 Flaggenaufkleber mit personalisiertem Namen für Fahrräder, Motorräder, Autos und Elektroroller. Klebeetiketten mit personalisierten Flaggen. Wasserdichtes selbstklebendes Vinyl für Fahrzeuge",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Hintergrund",
+      "label" : "Hintergrund",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Farbe",
+          "label" : "Farbe",
+          "optionSelection" : {
+            "label" : "Grau",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "USD"
+            },
+            "overlayImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/d8284182-26d5-4ac6-8947-0d5db847d581.jpg",
+              "dimension" : {
+                "width" : 400,
+                "height" : 400
+              }
+            }
+          },
+          "displayValue" : "Grau"
+        }, {
+          "type" : "OptionCustomization",
+          "name" : "Flaggen",
+          "label" : "Flaggen",
+          "optionSelection" : {
+            "label" : "4. Deutschland",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "USD"
+            },
+            "overlayImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/01cb62ca-a024-4a88-a751-a6ec1fbf068a.png",
+              "dimension" : {
+                "width" : 400,
+                "height" : 400
+              }
+            },
+            "thumbnailImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/21cac964-89d3-4ab5-9138-bd29e36108eb.png",
+              "dimension" : {
+                "width" : 200,
+                "height" : 200
+              }
+            }
+          },
+          "displayValue" : "4. Deutschland"
+        }, {
+          "type" : "OptionCustomization",
+          "name" : "Schutzfolie",
+          "label" : "Schutzfolie",
+          "optionSelection" : {
+            "label" : "Nein",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "USD"
+            }
+          },
+          "displayValue" : "Nein"
+        }, {
+          "type" : "ContainerCustomization",
+          "name" : "Texteingabe",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "label" : "Schriftart",
+            "fontSelection" : {
+              "family" : "Futurist"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "label" : "Schriftfarbe",
+            "colorSelection" : {
+              "name" : "Weiß  ",
+              "value" : "#fff",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "name" : "Text",
+              "children" : [ {
+                "type" : "FlatRatePriceDeltaContainerCustomization",
+                "children" : [ {
+                  "type" : "TextCustomization",
+                  "label" : "Text",
+                  "inputValue" : "MARCUS"
+                } ],
+                "priceDelta" : {
+                  "amount" : 0
+                }
+              } ],
+              "dimension" : {
+                "width" : 242,
+                "height" : 50
+              },
+              "position" : {
+                "x" : 136,
+                "y" : 139
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/c1cb5e1e-cbd7-4b72-91f4-681b94572216.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "79f3710b-cf9c-1420-298e-b70df31547ca.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "53f0a19a-8186-c0df-faf0-61d228b7fa25.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Hintergrund",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Farbe",
+          "label" : "Farbe",
+          "optionValue" : "Grau",
+          "priceDelta" : {
+            "currency" : "USD",
+            "value" : 0.0
+          },
+          "optionImage" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/d8284182-26d5-4ac6-8947-0d5db847d581.jpg"
+        }, {
+          "customizationType" : "Options",
+          "name" : "Flaggen",
+          "label" : "Flaggen",
+          "optionValue" : "4. Deutschland",
+          "priceDelta" : {
+            "currency" : "USD",
+            "value" : 0.0
+          },
+          "optionImage" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A1PA6795UKMFR9/A1JLJW2WT6ZDLU/01cb62ca-a024-4a88-a751-a6ec1fbf068a.png"
+        }, {
+          "customizationType" : "Options",
+          "name" : "Schutzfolie",
+          "label" : "Schutzfolie",
+          "optionValue" : "Nein",
+          "priceDelta" : {
+            "currency" : "USD",
+            "value" : 0.0
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Weiß  ",
+          "fill" : "#fff",
+          "fontFamily" : "Futurist",
+          "Dimensions" : {
+            "width" : 242,
+            "height" : 50
+          },
+          "Position" : {
+            "x" : 136,
+            "y" : 139
+          },
+          "priceDelta" : {
+            "value" : 0.0
+          },
+          "name" : "Text",
+          "label" : "Text",
+          "text" : "MARCUS"
+        } ]
+      } ]
+    }
+  }
+}

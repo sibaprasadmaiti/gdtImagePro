@@ -1,0 +1,119 @@
+{
+  "orderId" : "111-8638957-5056201",
+  "orderItemId" : "73288503236321",
+  "legacyOrderItemId" : null,
+  "merchantId" : "A3LWMIVSONM1Y9",
+  "marketplaceId" : "ATVPDKIKX0DER",
+  "asin" : "B08KRMCTLV",
+  "title" : "Letter Balloons - Custom Phrase 16\" Inch Alphabet Letters & Numbers Foil Mylar Balloon - Create Your Own Balloon Banner",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Surface 1",
+      "label" : "16 INCH LETTER BALLOON CUSTOMIZATION",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Option Dropdown 1",
+          "label" : "Number of LETTERS/NUMBERS in Your Phrase",
+          "optionSelection" : {
+            "name" : "8 Letters/Numbers",
+            "label" : "8 Letters/Numbers",
+            "additionalCost" : {
+              "amount" : 16.89
+            }
+          },
+          "displayValue" : "8 Letters/Numbers"
+        }, {
+          "type" : "OptionCustomization",
+          "name" : "Option Dropdown 2",
+          "label" : "PICK A COLOR",
+          "optionSelection" : {
+            "name" : "ROSE GOLD",
+            "label" : "ROSE GOLD",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "USD"
+            }
+          },
+          "displayValue" : "ROSE GOLD"
+        }, {
+          "type" : "TextCustomization",
+          "name" : "Data 1",
+          "label" : "WRITE YOUR PHRASE HERE",
+          "inputValue" : "LUV U MORE"
+        }, {
+          "type" : "TextCustomization",
+          "name" : "Data 2",
+          "label" : "SHIPPING TIME TAKES 3 TO 5 BUSINESS DAYS",
+          "inputValue" : ""
+        }, {
+          "type" : "TextCustomization",
+          "name" : "Data 3",
+          "label" : "BALLOONS DO NOT SUPPORT HELIUM!",
+          "inputValue" : ""
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-us-east-1/ATVPDKIKX0DER/A3LWMIVSONM1Y9/0f0d0f1d-b7cf-456f-bd45-56d63a6d5985.png",
+        "dimension" : {
+          "width" : 2000,
+          "height" : 2000
+        }
+      },
+      "snapshot" : {
+        "imageName" : "05eba733-3172-94f1-c9bc-d3fc2d1d6300.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "7e5880c8-bed4-583e-18a5-7f91447e1580.svg"
+    } ]
+  },
+  "version3.0" : {
+    "customizationInfo" : {
+      "surfaces" : [ {
+        "name" : "16 INCH LETTER BALLOON CUSTOMIZATION",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Option Dropdown 1",
+          "label" : "Number of LETTERS/NUMBERS in Your Phrase",
+          "optionValue" : "8 Letters/Numbers",
+          "priceDelta" : {
+            "value" : 16.89
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "Options",
+          "name" : "Option Dropdown 2",
+          "label" : "PICK A COLOR",
+          "optionValue" : "ROSE GOLD",
+          "priceDelta" : {
+            "currency" : "USD",
+            "value" : 0.0
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "TextPrinting",
+          "name" : "Data 1",
+          "label" : "WRITE YOUR PHRASE HERE",
+          "text" : "LUV U MORE"
+        }, {
+          "customizationType" : "TextPrinting",
+          "name" : "Data 2",
+          "label" : "SHIPPING TIME TAKES 3 TO 5 BUSINESS DAYS",
+          "text" : ""
+        }, {
+          "customizationType" : "TextPrinting",
+          "name" : "Data 3",
+          "label" : "BALLOONS DO NOT SUPPORT HELIUM!",
+          "text" : ""
+        } ]
+      } ]
+    }
+  }
+}

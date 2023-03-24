@@ -1,0 +1,100 @@
+{
+  "orderId" : "406-0245342-9425918",
+  "orderItemId" : "28474342128442",
+  "legacyOrderItemId" : "44799853908131",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "A13V1IB3VIYZZH",
+  "asin" : "B07MXJF94Q",
+  "title" : "36 Étiquettes vêtements à coudre. Étiquettes personnalisées tissées pour le nom. Conçu pour les enfants,et pour la maison de retraite.",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Nom",
+      "label" : "Nom",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "ContainerCustomization",
+          "name" : "TextInput",
+          "label" : "Saisie de texte",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "name" : "Nom de la police",
+            "label" : "Nom de la police",
+            "fontSelection" : {
+              "family" : "Trebuchet"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "label" : "Couleur de police",
+            "colorSelection" : {
+              "name" : "Noir",
+              "value" : "#000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "children" : [ {
+                "type" : "TextCustomization",
+                "name" : "Nom",
+                "label" : "Nom",
+                "inputValue" : "ROCU RENÉ "
+              } ],
+              "dimension" : {
+                "width" : 256,
+                "height" : 38
+              },
+              "position" : {
+                "x" : 47,
+                "y" : 318
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/c27d34a5-f496-462e-b7e8-77f495a7bb63.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "4154b421-a5cf-54d6-d94d-b85a3b11e4be.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "5f33991b-5ed2-cc18-2d13-8ea6892be7da.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Nom",
+        "areas" : [ {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Noir",
+          "fill" : "#000",
+          "fontFamily" : "Trebuchet",
+          "Dimensions" : {
+            "width" : 256,
+            "height" : 38
+          },
+          "Position" : {
+            "x" : 47,
+            "y" : 318
+          },
+          "name" : "Nom",
+          "label" : "Nom",
+          "text" : "ROCU RENÉ "
+        } ]
+      } ]
+    }
+  }
+}

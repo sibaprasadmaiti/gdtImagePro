@@ -1,0 +1,147 @@
+{
+  "orderId" : "408-5718706-8606726",
+  "orderItemId" : "28476326319922",
+  "legacyOrderItemId" : "41970323128811",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "APJ6JRA9NG5V4",
+  "asin" : "B07T7NJ8VR",
+  "title" : "Haberdashery Online 50 Etichette per Vestiti termoadesive Personalizzate con Il Nome per contrassegnare l'Abbigliamento dei Bambini. Adesivi da Stiro, Resistenti a Lavatrice e asciugatrice, 6x1cm",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Superficie",
+      "label" : "Superficie",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Icona",
+          "label" : "Icona",
+          "optionSelection" : {
+            "name" : "173. Dinosaur T-Rex",
+            "label" : "173. Dinosaur T-Rex",
+            "additionalCost" : {
+              "amount" : 1.99
+            },
+            "thumbnailImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/be536402-3bbc-4389-8435-068f7e04559d.png",
+              "dimension" : {
+                "width" : 200,
+                "height" : 200
+              }
+            },
+            "overlayImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/5a456894-b4eb-47d0-a96b-56bf3976c0c7.png",
+              "dimension" : {
+                "width" : 400,
+                "height" : 400
+              }
+            }
+          },
+          "displayValue" : "173. Dinosaur T-Rex"
+        }, {
+          "type" : "ContainerCustomization",
+          "name" : "TextInput",
+          "label" : "Texto 1",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "name" : "",
+            "label" : "Nome carattere",
+            "fontSelection" : {
+              "family" : "Normal"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "name" : "",
+            "label" : "Colore del carattere",
+            "colorSelection" : {
+              "name" : "Nero C9",
+              "value" : "#000000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "name" : "",
+              "label" : "Entrada de texto 1",
+              "children" : [ {
+                "type" : "FlatRatePriceDeltaContainerCustomization",
+                "children" : [ {
+                  "type" : "TextCustomization",
+                  "name" : "",
+                  "label" : "Testo",
+                  "inputValue" : "DANIELE DI RENZO"
+                } ],
+                "priceDelta" : {
+                  "amount" : 0
+                }
+              } ],
+              "dimension" : {
+                "width" : 246,
+                "height" : 41
+              },
+              "position" : {
+                "x" : 106,
+                "y" : 163
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/400bde68-4add-4a7a-9c91-2b38b42a886e.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "51e523d5-50fc-5aa9-5852-eaf61cf3b9dd.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "924384a3-d6da-baa4-606e-319ff1d6ab1a.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Superficie",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Icona",
+          "label" : "Icona",
+          "optionValue" : "173. Dinosaur T-Rex",
+          "priceDelta" : {
+            "value" : 1.99
+          },
+          "optionImage" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/5a456894-b4eb-47d0-a96b-56bf3976c0c7.png"
+        }, {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Nero C9",
+          "fill" : "#000000",
+          "fontFamily" : "Normal",
+          "Dimensions" : {
+            "width" : 246,
+            "height" : 41
+          },
+          "Position" : {
+            "x" : 106,
+            "y" : 163
+          },
+          "priceDelta" : {
+            "value" : 0.0
+          },
+          "name" : "",
+          "label" : "Testo",
+          "text" : "DANIELE DI RENZO"
+        } ]
+      } ]
+    }
+  }
+}

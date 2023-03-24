@@ -1,0 +1,100 @@
+{
+  "orderId" : "407-2472248-6869903",
+  "orderItemId" : "28476304089042",
+  "legacyOrderItemId" : "50149370925131",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "APJ6JRA9NG5V4",
+  "asin" : "B00P81M16M",
+  "title" : "Etichette personalizzate termoadesive per asilo. Set per marcare nomi da stirare con ferro sui vestiti per bambini, grembiuli, abbigliamento (100)",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Il tuo testo",
+      "label" : "Il tuo testo",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "ContainerCustomization",
+          "name" : "TextInput",
+          "label" : "Immissione testo",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "name" : "Nome carattere",
+            "label" : "Nome carattere",
+            "fontSelection" : {
+              "family" : "Trebuchet"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "label" : "Colore del carattere",
+            "colorSelection" : {
+              "name" : "Nero",
+              "value" : "#000000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "children" : [ {
+                "type" : "TextCustomization",
+                "name" : "Il tuo testo",
+                "label" : "Il tuo testo",
+                "inputValue" : "Leonardo C."
+              } ],
+              "dimension" : {
+                "width" : 228,
+                "height" : 43
+              },
+              "position" : {
+                "x" : 86,
+                "y" : 158
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/pc-vendor-gallery-prod-eu/A1JLJW2WT6ZDLU/productImage/2018-03-19/bfe13631-ff85-433e-a3d7-b8169566a3fd.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "6a245df2-0b7f-a0ac-7f8c-d83a240e343f.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "e3fd3088-9251-7869-9d6c-e2a09f6e1855.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Il tuo testo",
+        "areas" : [ {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Nero",
+          "fill" : "#000000",
+          "fontFamily" : "Trebuchet",
+          "Dimensions" : {
+            "width" : 228,
+            "height" : 43
+          },
+          "Position" : {
+            "x" : 86,
+            "y" : 158
+          },
+          "name" : "Il tuo testo",
+          "label" : "Il tuo testo",
+          "text" : "Leonardo C."
+        } ]
+      } ]
+    }
+  }
+}

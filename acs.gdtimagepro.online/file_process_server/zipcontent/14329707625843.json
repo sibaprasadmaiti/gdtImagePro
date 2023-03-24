@@ -1,0 +1,73 @@
+{
+  "orderId" : "406-2742933-8917108",
+  "orderItemId" : "28474828488202",
+  "legacyOrderItemId" : "14329707625843",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "APJ6JRA9NG5V4",
+  "asin" : "B08LNNVK6W",
+  "title" : "Adesivo Bebe a bordo per l'auto. Adesivi in vinile Bimbo o bimba a bordo anche per moto. 15 x 13,7 cm.",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Posizionamento",
+      "label" : "Posizionamento",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Posizionamento",
+          "label" : "Posizionamento",
+          "optionSelection" : {
+            "name" : "Dentro",
+            "label" : "Dentro",
+            "additionalCost" : {
+              "amount" : 2
+            },
+            "overlayImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/a3b2ef0b-376f-49d9-90a5-d9beab333bac.jpg",
+              "dimension" : {
+                "width" : 400,
+                "height" : 400
+              }
+            }
+          },
+          "displayValue" : "Dentro"
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/b987817e-cc62-44b8-81f2-3eeabf0c91a6.jpg",
+        "dimension" : {
+          "width" : 1000,
+          "height" : 1000
+        }
+      },
+      "snapshot" : {
+        "imageName" : "67e981c3-2745-0b8a-5937-610bb4676d7e.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "7eac948d-a0a2-ee24-9adb-266b00a5285e.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Posizionamento",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Posizionamento",
+          "label" : "Posizionamento",
+          "optionValue" : "Dentro",
+          "priceDelta" : {
+            "value" : 2.0
+          },
+          "optionImage" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/APJ6JRA9NG5V4/A1JLJW2WT6ZDLU/a3b2ef0b-376f-49d9-90a5-d9beab333bac.jpg"
+        } ]
+      } ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "orderId" : "405-6426827-4721151",
+  "orderItemId" : "28476073949762",
+  "legacyOrderItemId" : "31403271025787",
+  "merchantId" : "A1JLJW2WT6ZDLU",
+  "marketplaceId" : "A13V1IB3VIYZZH",
+  "asin" : "B07S8B3XPJ",
+  "title" : "50 étiquettes adhésives personnalisées pour crayons, stylos et marqueurs. Autocollants scolaires avec nom pour marquer les objets. Stickers imperméables pour l'école. Mesure 4,6 x 0,6 cm",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PageContainerCustomization",
+    "children" : [ {
+      "type" : "PreviewContainerCustomization",
+      "name" : "Fonds",
+      "label" : "Fonds",
+      "children" : [ {
+        "type" : "FlatContainerCustomization",
+        "children" : [ {
+          "type" : "OptionCustomization",
+          "name" : "Stratifié Protecteur",
+          "label" : "Stratifié Protecteur",
+          "optionSelection" : {
+            "name" : "Non",
+            "label" : "Non",
+            "additionalCost" : {
+              "amount" : 0,
+              "currency" : "EUR"
+            }
+          },
+          "displayValue" : "Non"
+        }, {
+          "type" : "OptionCustomization",
+          "name" : "Les Iconês",
+          "label" : "Les Iconês",
+          "optionSelection" : {
+            "name" : "132. Panda",
+            "label" : "132. Panda",
+            "additionalCost" : {
+              "amount" : 0.99,
+              "currency" : "EUR"
+            },
+            "thumbnailImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/c721c1b3-7e0e-4863-9d0b-8d365ed8682f.png",
+              "dimension" : {
+                "width" : 200,
+                "height" : 200
+              }
+            },
+            "overlayImage" : {
+              "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/c65f5abf-4fad-4aa6-8733-a654dd2e2170.png",
+              "dimension" : {
+                "width" : 400,
+                "height" : 400
+              }
+            }
+          },
+          "displayValue" : "132. Panda"
+        }, {
+          "type" : "ContainerCustomization",
+          "name" : "TextInput",
+          "label" : "Texto 1",
+          "children" : [ {
+            "type" : "FontCustomization",
+            "name" : "",
+            "label" : "Nom de la police",
+            "fontSelection" : {
+              "family" : "Juvenil"
+            }
+          }, {
+            "type" : "ColorCustomization",
+            "name" : "",
+            "label" : "Couleur de police",
+            "colorSelection" : {
+              "name" : "Noir C20",
+              "value" : "#000000",
+              "colorModel" : "rgb"
+            }
+          }, {
+            "type" : "ContainerCustomization",
+            "children" : [ {
+              "type" : "PlacementContainerCustomization",
+              "name" : "",
+              "label" : "Entrada de texto 1",
+              "children" : [ {
+                "type" : "FlatRatePriceDeltaContainerCustomization",
+                "children" : [ {
+                  "type" : "TextCustomization",
+                  "name" : "",
+                  "label" : "Texte",
+                  "inputValue" : "UTARD Lizéa "
+                } ],
+                "priceDelta" : {
+                  "amount" : 0
+                }
+              } ],
+              "dimension" : {
+                "width" : 251,
+                "height" : 37
+              },
+              "position" : {
+                "x" : 101,
+                "y" : 162
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "baseImage" : {
+        "imageUrl" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/0f57e000-e1df-4a66-90b5-f3cb3facb996.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "snapshot" : {
+        "imageName" : "fe8ba55a-6c02-d246-0fe2-369ab556c663.jpg",
+        "dimension" : {
+          "width" : 400,
+          "height" : 400
+        }
+      },
+      "svg" : "2fbebefb-f01c-c471-bfd4-5435af68ba99.svg"
+    } ]
+  },
+  "customizationInfo" : {
+    "version3.0" : {
+      "surfaces" : [ {
+        "name" : "Fonds",
+        "areas" : [ {
+          "customizationType" : "Options",
+          "name" : "Stratifié Protecteur",
+          "label" : "Stratifié Protecteur",
+          "optionValue" : "Non",
+          "priceDelta" : {
+            "currency" : "EUR",
+            "value" : 0.0
+          },
+          "optionImage" : ""
+        }, {
+          "customizationType" : "Options",
+          "name" : "Les Iconês",
+          "label" : "Les Iconês",
+          "optionValue" : "132. Panda",
+          "priceDelta" : {
+            "currency" : "EUR",
+            "value" : 0.99
+          },
+          "optionImage" : "https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/c65f5abf-4fad-4aa6-8733-a654dd2e2170.png"
+        }, {
+          "customizationType" : "TextPrinting",
+          "colorName" : "Noir C20",
+          "fill" : "#000000",
+          "fontFamily" : "Juvenil",
+          "Dimensions" : {
+            "width" : 251,
+            "height" : 37
+          },
+          "Position" : {
+            "x" : 101,
+            "y" : 162
+          },
+          "priceDelta" : {
+            "value" : 0.0
+          },
+          "name" : "",
+          "label" : "Texte",
+          "text" : "UTARD Lizéa "
+        } ]
+      } ]
+    }
+  }
+}

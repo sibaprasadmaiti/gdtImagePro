@@ -1,0 +1,121 @@
+{
+  "orderId" : "112-8121068-0189069",
+  "orderItemId" : "56591697436441",
+  "legacyOrderItemId" : "26856679420778",
+  "merchantId" : "A3INONN45HK3TR",
+  "marketplaceId" : "ATVPDKIKX0DER",
+  "asin" : "B071SKR8W5",
+  "title" : "Personalized Reflective Dog Collar for Small Dogs - Color Hot Pink - Laser Engraved Name Plate - Odor Proof",
+  "quantity" : 1,
+  "customizationData" : {
+    "type" : "PreviewContainerCustomization",
+    "name" : "Nameplate",
+    "label" : "Nameplate",
+    "children" : [ {
+      "type" : "FlatContainerCustomization",
+      "children" : [ {
+        "type" : "OptionCustomization",
+        "name" : "Nameplate Color",
+        "label" : "Color",
+        "optionSelection" : {
+          "label" : "Silver",
+          "additionalCost" : {
+            "amount" : 0.0,
+            "currency" : "USD"
+          },
+          "overlayImage" : {
+            "imageUrl" : "https://images-na.ssl-images-amazon.com/images/S/pc-vendor-gallery-prod/A3INONN45HK3TR/options/2017-05-29/48813a05-efad-49c6-9ed3-1e1460eafce2.png",
+            "dimension" : {
+              "width" : 400,
+              "height" : 400
+            }
+          }
+        }
+      }, {
+        "type" : "ContainerCustomization",
+        "name" : "Text Input",
+        "children" : [ {
+          "type" : "FontCustomization",
+          "label" : "Font Name",
+          "fontSelection" : {
+            "family" : "Helvetica"
+          }
+        }, {
+          "type" : "ColorCustomization",
+          "label" : "Font Color",
+          "colorSelection" : {
+            "name" : "laser",
+            "value" : "#000000",
+            "colorModel" : "rgb"
+          }
+        }, {
+          "type" : "ContainerCustomization",
+          "children" : [ {
+            "type" : "PlacementContainerCustomization",
+            "name" : "Line 1",
+            "children" : [ {
+              "type" : "TextCustomization",
+              "label" : "Line 1",
+              "inputValue" : "PEARL 605-321-8749"
+            } ],
+            "dimension" : {
+              "width" : 257,
+              "height" : 30
+            },
+            "position" : {
+              "x" : 83,
+              "y" : 190
+            }
+          }, {
+            "type" : "PlacementContainerCustomization",
+            "name" : "Line 2",
+            "children" : [ {
+              "type" : "TextCustomization",
+              "label" : "Line 2",
+              "inputValue" : "Bryan/Kim Wilcox"
+            } ],
+            "dimension" : {
+              "width" : 257,
+              "height" : 30
+            },
+            "position" : {
+              "x" : 83,
+              "y" : 220
+            }
+          }, {
+            "type" : "PlacementContainerCustomization",
+            "name" : "Line 3",
+            "children" : [ {
+              "type" : "TextCustomization",
+              "label" : "Line 3",
+              "inputValue" : ""
+            } ],
+            "dimension" : {
+              "width" : 257,
+              "height" : 30
+            },
+            "position" : {
+              "x" : 83,
+              "y" : 250
+            }
+          } ]
+        } ]
+      } ]
+    } ],
+    "baseImage" : {
+      "imageUrl" : "https://images-na.ssl-images-amazon.com/images/S/pc-vendor-gallery-prod/ATVPDKIKX0DER/A3INONN45HK3TR/image/cdcc6c5a-5cfe-4ac1-a6ee-88338260bfca.jpg",
+      "dimension" : {
+        "width" : 400,
+        "height" : 400
+      }
+    },
+    "snapshot" : {
+      "imageName" : "d79aeaed-b9d8-5774-121e-aa49485149d6.jpg",
+      "dimension" : {
+        "width" : 400,
+        "height" : 400
+      }
+    },
+    "svg" : "2f59521f-ee37-ad5a-9d22-314cd6f1bf95.svg"
+  }
+}

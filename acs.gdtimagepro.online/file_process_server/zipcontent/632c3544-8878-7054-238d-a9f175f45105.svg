@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="3200" height="3200" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.2.0</desc>
+<defs>
+	<style type="text/css"><![CDATA[
+		@font-face {
+			font-family: 'font-5c00a7de-612d-432d-b69d-03';
+			src: url('https://m.media-amazon.com/images/S/gestalt-fonts-eu-prod-eu-west-1/custom-fonts/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/a0a849eb-907a-4102-acef-c09ecb29155d.ttf');
+		}
+		@font-face {
+			font-family: 'font-f7054b7f-3f7e-4e7f-9ad1-68';
+			src: url('https://m.media-amazon.com/images/S/gestalt-fonts-eu-prod-eu-west-1/custom-fonts/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/f10a3348-46a0-408d-a713-f3050804678a.woff');
+		}
+]]></style>
+</defs>
+<g transform="matrix(1 0 0 1 200 200)"  >
+	<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  xlink:href="https://m.media-amazon.com/images/S/gestalt-seller-images-prod-eu-west-1/A13V1IB3VIYZZH/A1JLJW2WT6ZDLU/42a96980-a4ab-4ac1-a04f-cceae0370b1f.jpg" x="-200" y="-200" width="400" height="400"></image>
+</g>
+<g transform="matrix(0.96328889 0 0 0.96328889 201.5 187)" style=""  >
+		<text xml:space="preserve" font-family="font-5c00a7de-612d-432d-b69d-03" font-size="36.291970802919714" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,162,79); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-142.74014884" y="11.40075971" style="white-space: pre; ">Joyeux Anniversaire </tspan></text>
+</g>
+<g transform="matrix(0.91628162 0 0 0.91628162 202 241)" style=""  >
+		<text xml:space="preserve" font-family="font-f7054b7f-3f7e-4e7f-9ad1-68" font-size="28.974358974358974" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,162,79); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.02107121" y="9.10200513" >Marcel</tspan></text>
+</g>
+<g transform="matrix(0.91628162 0 0 0.91628162 200.5 269.5)" style=""  >
+		<text xml:space="preserve" font-family="font-f7054b7f-3f7e-4e7f-9ad1-68" font-size="14.487179487179487" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,162,79); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.59615385" y="4.55100256" >18.07.1943</tspan></text>
+</g>
+</svg>
